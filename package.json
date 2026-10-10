@@ -1,0 +1,1 @@
+{"name":"lajuweb","version":"1.0.0","description":"Website LajuWeb","scripts":{"start":"npx serve ."},"license":"MIT"}
