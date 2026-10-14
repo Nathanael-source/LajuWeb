@@ -1,4 +1,4 @@
-const WA_NUMBER='+6281319999622'; // ganti dengan nomor WhatsApp Anda
+const WA_NUMBER='+6281212539450'; // ganti dengan nomor WhatsApp Anda
 const waLink=t=>`https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(t)}`;
 document.addEventListener('lw:ready',()=>{
 document.querySelectorAll('[data-wa]').forEach(a=>a.href=waLink(a.dataset.wa));
